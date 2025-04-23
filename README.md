@@ -28,3 +28,7 @@ The scraped data is stored in a MySQL database, enabling further analysis, filte
    
    ```bash
    pip install selenium mysql-connector
+
+
+
+// To be continued
